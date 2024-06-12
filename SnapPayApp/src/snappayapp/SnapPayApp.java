@@ -11,10 +11,6 @@ public class SnapPayApp {
         IntroInterface.pack();
         IntroInterface.setLocationRelativeTo(null);
 
-
-
-
-
         }
         
 }
