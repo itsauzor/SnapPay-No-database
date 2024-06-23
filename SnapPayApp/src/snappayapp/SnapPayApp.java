@@ -2,7 +2,6 @@
 package snappayapp;
 
 public class SnapPayApp {
-
      
         public static void main(String[] args) {
                
