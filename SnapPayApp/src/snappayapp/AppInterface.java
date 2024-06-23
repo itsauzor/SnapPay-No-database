@@ -13,7 +13,6 @@ public class AppInterface extends javax.swing.JFrame {
                 initComponents();
                 listHistoryTable.getColumnModel().getColumn(0).setPreferredWidth(270);
 
-
                  updateAccountBalanceLabel();
 
         }
